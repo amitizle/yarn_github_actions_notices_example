@@ -1,0 +1,11 @@
+{
+  "name": "yarn_github_actions_notices_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amitizle/yarn_github_actions_notices_example.git",
+  "author": "Amit Goldberg <amit.goldberg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
